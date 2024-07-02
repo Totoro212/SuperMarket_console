@@ -1,0 +1,42 @@
+﻿  File_work.cpp
+  Polzovatel.cpp
+  Sale.cpp
+  super_market.cpp
+C:\OLEG\university\PBL\super_market\super_market\super_market.cpp(33,41): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\OLEG\university\PBL\super_market\super_market\super_market.cpp(37,41): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\OLEG\university\PBL\super_market\super_market\super_market.cpp(41,41): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\OLEG\university\PBL\super_market\super_market\super_market.cpp(45,41): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\OLEG\university\PBL\super_market\super_market\super_market.cpp(74,41): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\OLEG\university\PBL\super_market\super_market\super_market.cpp(78,41): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\OLEG\university\PBL\super_market\super_market\super_market.cpp(82,41): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\OLEG\university\PBL\super_market\super_market\super_market.cpp(110,41): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\OLEG\university\PBL\super_market\super_market\super_market.cpp(116,45): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\OLEG\university\PBL\super_market\super_market\super_market.cpp(119,26): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\OLEG\university\PBL\super_market\super_market\super_market.cpp(122,45): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\OLEG\university\PBL\super_market\super_market\super_market.cpp(127,41): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\OLEG\university\PBL\super_market\super_market\super_market.cpp(133,45): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\OLEG\university\PBL\super_market\super_market\super_market.cpp(136,26): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\OLEG\university\PBL\super_market\super_market\super_market.cpp(139,45): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\OLEG\university\PBL\super_market\super_market\super_market.cpp(144,41): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\OLEG\university\PBL\super_market\super_market\super_market.cpp(150,45): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\OLEG\university\PBL\super_market\super_market\super_market.cpp(153,26): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\OLEG\university\PBL\super_market\super_market\super_market.cpp(156,45): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\OLEG\university\PBL\super_market\super_market\super_market.cpp(166,37): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\OLEG\university\PBL\super_market\super_market\super_market.cpp(187,41): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\OLEG\university\PBL\super_market\super_market\super_market.cpp(191,41): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\OLEG\university\PBL\super_market\super_market\super_market.cpp(195,41): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\OLEG\university\PBL\super_market\super_market\super_market.cpp(223,41): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\OLEG\university\PBL\super_market\super_market\super_market.cpp(227,41): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\OLEG\university\PBL\super_market\super_market\super_market.cpp(254,37): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\OLEG\university\PBL\super_market\super_market\super_market.cpp(272,37): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\OLEG\university\PBL\super_market\super_market\super_market.cpp(298,41): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\OLEG\university\PBL\super_market\super_market\super_market.cpp(302,41): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\OLEG\university\PBL\super_market\super_market\super_market.cpp(306,22): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\OLEG\university\PBL\super_market\super_market\super_market.cpp(548,48): warning C4244: -=: преобразование "double" в "int", возможна потеря данных
+C:\OLEG\university\PBL\super_market\super_market\super_market.cpp(342,10): warning C4101: sale: неиспользованная локальная переменная
+  Создание кода...
+C:\OLEG\university\PBL\super_market\super_market\Polzovatel.cpp(205): warning C4715: Polzovatel::User_registration: значение возвращается не при всех путях выполнения
+C:\OLEG\university\PBL\super_market\super_market\File_work.cpp(127): warning C4715: File_work::Sum: значение возвращается не при всех путях выполнения
+C:\OLEG\university\PBL\super_market\super_market\File_work.cpp(97): warning C4715: File_work::Proverka: значение возвращается не при всех путях выполнения
+C:\OLEG\university\PBL\super_market\super_market\File_work.cpp(111): warning C4715: File_work::Chek: значение возвращается не при всех путях выполнения
+  super_market.vcxproj -> C:\OLEG\university\PBL\super_market\x64\Debug\super_market.exe
